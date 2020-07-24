@@ -1,6 +1,0 @@
-﻿  Shape.cpp
-c:\users\안준형\documents\visual studio 2017\exercise\cpp\1-5_point\1-5_point\shape.h(36): error C2062: 예기치 않은 'void' 형식입니다.
-c:\users\안준형\documents\visual studio 2017\exercise\cpp\1-5_point\1-5_point\shape.cpp(4): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
-  Shape.h
-c:\users\안준형\documents\visual studio 2017\exercise\cpp\1-5_point\1-5_point\shape.h(36): error C2062: 예기치 않은 'void' 형식입니다.
-  코드를 생성하고 있습니다...
