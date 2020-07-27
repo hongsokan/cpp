@@ -31,7 +31,7 @@ private:
 public:
 	// constructors
 	Rectangle() : Point() { m_nX2 = 0; m_nY2 = 0; }
-	Rectangle(int x1, int y1, int x2, int y2, int c) : Point { };
+	Rectangle(int x1, int y1, int x2, int y2, int c) : Point(x1, y1, c) { m_nX2 = x2; m_nY2 = y2; }
 	// member functions
 	void setX2Y2(int x2, int y2) { m_nX2 = x2; m_nY2 = y2; }
 	int getX2() { return m_nX2; }
